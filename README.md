@@ -2,7 +2,7 @@
 
 - I'm currently more of a web developer, but I'm excited to explore new areas!  
 - Currently comfortable with `Python`, `Go` and `Javascript`. 
-- The most obscure language I know is [Elm](https://elm-lang.org/)
+- The most obscure language I know is [Elm](https://elm-lang.org/).
 - I spend too much time tinkering around with my CLI and Neovim Configs ([dotfiles here 😬](https://github.com/notyumin/dotfiles)).  
 
 ### Personal Projects
