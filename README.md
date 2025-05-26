@@ -8,3 +8,4 @@
 ### Personal Projects
 - [CIS Youth Hymnal](https://github.com/church-sg/cis-youth-hymnal-v2) (`Hugo`, `HTML`, `CSS`, `Javascript`)
 - [Scripts For Fun](https://github.com/notyumin/scripts-for-fun) (`Go`, `Python`)
+- [Menubar Pomodoro Timer](https://github.com/notyumin/electron-pomodoro) (`Electron`)
