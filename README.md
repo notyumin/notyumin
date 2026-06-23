@@ -1,9 +1,9 @@
 # Hi, I'm Yu Min! 👋
 
-- I'm currently more of a web developer, but I'm excited to explore new areas!  
-- Currently comfortable with `Python`, `Go` and `Javascript`. 
-- The most obscure language I know is [Elm](https://elm-lang.org/).
-- I spend too much time tinkering around with my CLI and Neovim Configs ([dotfiles here 😬](https://github.com/notyumin/dotfiles)).  
+- I'm currently most familiar with web dev technologies, but I'm excited to learn about backend, lower-level tech and systems programming!
+- Currently more comfortable with `Python`, `Go` and `Javascript`.
+- The most obscure language I've worked with is [Elm](https://elm-lang.org/).
+- I spend too much time tinkering around with my CLI and Neovim Configs ([dotfiles here 😬](https://github.com/notyumin/dotfiles)).
 
 ### Personal Projects
 - [CIS Youth Hymnal](https://github.com/church-sg/cis-youth-hymnal-v2) (`Hugo`, `HTML`, `CSS`, `Javascript`)
